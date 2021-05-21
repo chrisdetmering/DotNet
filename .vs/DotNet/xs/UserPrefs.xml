@@ -1,27 +1,26 @@
 ﻿<Properties StartupConfiguration="{5A541DCA-772E-489E-A2DE-89B98535C91A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/.DS_Store">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet.sln">
     <Files>
       <File FileName="Core/Models/WeatherForecast.cs" Line="13" Column="2" IsPinned="True" />
-      <File FileName="API/Startup.cs" Line="23" Column="1" />
+      <File FileName="API/Startup.cs" />
       <File FileName="Core/hibernate.cfg.xml" />
-      <File FileName="API/API.csproj" Line="1" Column="1" />
+      <File FileName="API/API.csproj" />
       <File FileName="API/Controllers/WeatherForecastController.cs" />
       <File FileName="Core/Services/IWeatherService.cs" />
       <File FileName="Core/Mappings/WeatherForecast.hbm.xml" />
-      <File FileName="API/Program.cs" Line="1" Column="1" />
-      <File FileName="API/client/src/App.js" Line="30" Column="2" />
-      <File FileName=".gitignore" Line="1" Column="1" />
-      <File FileName="API/.DS_Store" Line="1" Column="1" />
+      <File FileName="API/Program.cs" />
+      <File FileName="Core/Core.csproj" />
+      <File FileName="Infrastructure/Infrastructure.csproj" />
+      <File FileName="DotNet.sln" Line="18" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="DotNet" expanded="True">
-            <Node name="Solution Items" expanded="True" />
-            <Node name="API" expanded="True">
-              <Node name=".DS_Store" selected="True" />
-            </Node>
+            <Node name="API" expanded="True" selected="True" />
+            <Node name="Core" expanded="True" />
+            <Node name="Infrastructure" expanded="True" />
           </Node>
         </State>
       </Pad>
